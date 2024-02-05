@@ -24,18 +24,18 @@
 }
 
 body {
-  background-color: #f4f4f4; /* Puedes cambiar el color a tu preferencia */
+  background-color: #f4f4f4; 
   margin: 0;
   margin-top: 0px;
   padding: 0;
-  font-family: 'Roboto', sans-serif; /* Cambia 'Roboto' por la fuente que desees */
-  font-size: 16px; /* Puedes ajustar el tamaño de la fuente según tus preferencias */
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
 }
 
 .container {
-  background-color: #fff; /* Asegúrate de que el fondo del contenido sea blanco o el color que desees */
-  border-radius: 8px; /* Añade bordes redondeados al contenido */
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Añade una sombra sutil alrededor del contenido */
+  background-color: #fff;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
   padding: 20px;
   margin-top: 20px;
 }
